@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: cadetblue;
+    text-align: center;
+    padding: 10px 16px;
+  background: chocolate;
+  color: black;
+}
+
+figure{
+    top: 50px;
+    display: inline;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
